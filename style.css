@@ -1,3 +1,9 @@
 .title_text {
     text-align: center;
 }
+.text_1 {
+    padding: 10px;
+    margin-top: 20px;
+    background-color: blue;
+    color: white;
+}
